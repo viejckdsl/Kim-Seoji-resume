@@ -99,3 +99,11 @@
 - [GitHub](https://github.com/사용자)  
 - [LinkedIn](https://linkedin.com/in/사용자)  
 - [포트폴리오](https://사용자.com)   
+
+---
+
+## 추천인
+
+광운대학교 정보융합학부 박규동 교수
+
+---
